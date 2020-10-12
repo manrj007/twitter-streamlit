@@ -1,0 +1,13 @@
+1. scraping tweet
+2. Sentiment - positive/negative/neutral
+3. Wordcloud - top 5 most used words
+4. Sentiment span extraction
+5. Some info from wiki
+6. GetOldTweets3
+
+
+Access token :     1059637136511520768-IsGRaBmmUQMAXgW97vBmqysqFM80db
+Access token secret :   jgbnA1KOpNId91tsgZpvRkr1aVbtGfSDTKONH29O1OQrN
+API key:  zVuMpGebsDOlKvn2TxZbieF6A
+
+API secret key:   ilxtHZJMKpE2txq3erWfORNzCaa6DQxJULEQVlt6sqvPVl9Dm5
